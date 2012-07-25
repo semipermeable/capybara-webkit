@@ -1,3 +1,4 @@
+CONFIG += debug
 TEMPLATE = app
 TARGET = webkit_server
 DESTDIR = .
